@@ -1,0 +1,11 @@
+Nim       : 1811500069
+Nama      : Feri Hidayat
+Kelompok  : Ti6J
+
+Kesimpulan yang saya cerna dari pertemuan 1:
+1) Perkenalan terkait mata kuliah analisa dan perancangan PL
+2) Etika berkomunikasi, harapannya mahasiswa bisa menerapkan dalam aktifitas perkuliahan atau berkomunikasi di masyarakat sesuai dengan slogan kampus "Cerdas Berjiwa Luhur"
+3) Membahas mekanisme perkuliahan secara online
+4) Membuat kelompok beranggotakan 3 orang untuk membuat laporan
+5) Mempelajari penggunaan github untuk penunjang perkuliahan matakuliah analisa dan perancangan PL serta wadah untuk menyimpan saduran
+6) Tujuan mata kuliah analisa dan perancangan PL
