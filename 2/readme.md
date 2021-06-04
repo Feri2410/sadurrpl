@@ -1,4 +1,4 @@
-Absensi pertemuan 2<br>
+Pertemuan 2<br>
 <br>
 Nama  : Feri Hidayat<br>
 Nim   : 1811500069<br>
